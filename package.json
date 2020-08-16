@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "dependencies": {
+        "nodemon": "^2.0.6",
+        "standard": "^15.0.0",
+        "stylelint": "^13.7.2"
+    }
+}
