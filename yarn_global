@@ -1,0 +1,21 @@
+yarn global v1.22.19
+info "create-react-app@5.0.1" has binaries:
+   - create-react-app
+info "eslint@8.17.0" has binaries:
+   - eslint
+info "localtunnel@2.0.2" has binaries:
+   - lt
+info "nodemon@2.0.16" has binaries:
+   - nodemon
+info "prettier@2.6.2" has binaries:
+   - prettier
+info "redis-cli@2.1.2" has binaries:
+   - rdcli
+info "serve@14.0.1" has binaries:
+   - serve
+info "stylelint@14.8.5" has binaries:
+   - stylelint
+info "typescript@4.7.3" has binaries:
+   - tsc
+   - tsserver
+Done in 0.35s.

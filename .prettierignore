@@ -1,0 +1,14 @@
+# Ignore artifacts:
+dist
+build
+coverage
+src/forkedComponents
+.husky
+.github
+*.scss
+*.html
+.prettierrc
+.vimrc
+*.md
+docker-compose.yml
+jest.config.js
