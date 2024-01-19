@@ -1,2 +1,2 @@
 # dotFiles
-Collect my environment configuration files.
+Collect my environment configuration files
